@@ -1,0 +1,56 @@
+.pai-dos-itens {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    border: 2px;
+}
+.pai-dos-itens img {
+    height: 200px;
+    width: 200px;
+    border: 2px black solid;
+    border-radius: 50%;
+}
+
+.pai-dos-itens .allec {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color: aqua;
+    box-shadow: black 2px 2px 2px;
+}
+
+.pai-dos-itens .tamires {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color: aqua;
+    box-shadow: black 2px 2px 2px;
+}
+
+.pai-dos-itens .raquel {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color: aqua;
+    box-shadow: black 2px 2px 2px;
+}
+
+.pai-dos-itens .guilherme {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color: aqua;
+    box-shadow: black 2px 2px 2px;
+}

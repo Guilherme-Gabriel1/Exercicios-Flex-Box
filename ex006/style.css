@@ -1,0 +1,22 @@
+.pai-dos-itens {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.pai-dos-itens .caixa {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(128, 128, 128, 0.447);
+    color: black;
+    height: 380px;
+    width: 700px;
+    border: 1px black solid;
+    border-radius: 5px;
+}
+
+.pai-dos-itens button {
+    display: flex;
+    
+}

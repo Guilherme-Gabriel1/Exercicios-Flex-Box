@@ -1,0 +1,18 @@
+.pai-dos-itens {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.pai-dos-itens .servico {
+    background-color: beige;
+    height: 330px;
+    width: 300px;
+    text-align: center;
+    border: 1px black solid;
+    border-radius: 10px;
+}
+
+.pai-dos-itens .servico img {
+    width: 80%;
+}

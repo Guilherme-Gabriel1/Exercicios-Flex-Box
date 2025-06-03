@@ -1,0 +1,10 @@
+.rodape footer{
+    display: flex;
+    gap: 200px;
+    align-items: center;
+}
+
+.rodape .coluna {
+    display: flex;
+    flex-direction: column;
+}

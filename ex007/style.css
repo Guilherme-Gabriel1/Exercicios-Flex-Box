@@ -1,0 +1,13 @@
+.pai-dos-itens {
+    display: flex;
+    gap: 30px;
+}
+
+.pai-dos-itens .produto {
+    background-color: aquamarine;
+    text-align: center;
+    height: 450px;
+    width: 400px;
+    border: 1px black solid;
+    border-radius: 10px;
+}
